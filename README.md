@@ -1,2 +1,4 @@
-# Showcase
-Examples of some of the code that I have written
+# Credit Card Validator
+
+I wrote this program to detect whether a credit card number that is given is valid.
+
